@@ -81,7 +81,7 @@ Observation: This shows how devices communicate with a DHCP server to get their 
 
 ### Next section
 
-We will capture the DNS (Domain Name System) traffic. This protocol will help convert domain names (like google.com) into IP addresses.DNS works on port 53.
+We will capture the DNS (Domain Name System) traffic. This protocol will help convert domain names (like google.com) into IP addresses. DNS works on port 53.
 
 > RUN COMMAND: nslookup www.google.com
 
